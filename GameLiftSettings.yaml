@@ -1,0 +1,10 @@
+version: 1
+GameLiftLocalPath: C:/Users/1reds/Desktop/GameLift_06_03_2021/GameLiftLocal-1.0.5/GameLiftLocal.jar
+CurrentProfileName: default
+CurrentRegion: ap-northeast-2
+CurrentBucketName: mega-jam-server
+DeploymentScenarioIndex: 1
+LocalServerPath: E:/UnityBuild/AWS-GameLift-Sample/AWS-GameLift-Sample.exe
+GameLiftLocalPort: 8080
+WasSettingsWindowShown: 1
+...
